@@ -1,0 +1,16 @@
+langchain
+langchain-huggingface
+streamlit
+transformers
+
+faiss-cpu
+boto3
+langchain-community
+python-dotenv
+langchain-openai
+pypdf
+huggingface_hub
+accelerate
+bitsandbytes
+wikipedia
+numexpr
